@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://raw.githubusercontent.com/1NF1NX/Gitcard/main/card/card.svg" width="400" />
-currently working on that, just showed you a glimpse and more to come!!
